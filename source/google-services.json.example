@@ -1,0 +1,18 @@
+{
+  "project_info": {
+    "project_number": "ISI_PROJECT_NUMBER",
+    "firebase_url": "https://NAMA-PROJECT-default-rtdb.REGION.firebasedatabase.app",
+    "project_id": "NAMA-PROJECT",
+    "storage_bucket": "NAMA-PROJECT.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "ISI_APP_ID",
+        "android_client_info": { "package_name": "com.growsync.greenhouse" }
+      },
+      "api_key": [ { "current_key": "ISI_API_KEY" } ]
+    }
+  ],
+  "configuration_version": "1"
+}
